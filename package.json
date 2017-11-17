@@ -1,11 +1,14 @@
 {
-    "name": "vscode-ayu-next",
-    "displayName": "vscode-ayu-next",
-    "description": "",
+    "name": "vscode-field-lights",
+    "displayName": "Field Lights Theme",
+    "description": "A dark Visual Studio Theme inspired by the great Ayu theme but adding some personal taste customizations",
     "version": "0.0.1",
     "publisher": "sveggiani",
     "engines": {
         "vscode": "^1.18.0"
+    },
+    "author": {
+        "name": "Sebastián Veggiani (sveggiani[at]gmail.com)"
     },
     "categories": [
         "Themes"
@@ -13,10 +16,20 @@
     "contributes": {
         "themes": [
             {
-                "label": "Ayu Next",
+                "label": "Field Lights",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Ayu Next-color-theme.json"
+                "path": "./themes/Field Lights-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "homepage": "https://github.com/Microsoft/vscode-wordcount/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/sveggiani/vscode-field-lights/issues",
+        "email": "sveggiani@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sveggiani/vscode-field-lights"
+    },
 }

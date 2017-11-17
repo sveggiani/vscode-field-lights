@@ -1,5 +1,5 @@
 # README
-## This is the README for your extension "vscode-ayu-next"
+## This is the README for your extension "vscode-field-lights"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
 * Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)

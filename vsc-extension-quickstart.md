@@ -4,7 +4,7 @@
 * This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file.
 and specifies the base theme of the theme.
-* `themes/Ayu Next-color-theme.json` - the color theme definition file.
+* `themes/Field Lights-color-theme.json` - the color theme definition file.
 
 ## Get up and running straight away
 * Press `F5` to open a new window with your extension loaded.
