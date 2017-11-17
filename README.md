@@ -1,3 +1,5 @@
 # README
 
-More details coming soon...
+### Screenshot
+
+![Field Lights Theme screenshot](screenshot.png)

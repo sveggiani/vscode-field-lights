@@ -2,7 +2,7 @@
     "name": "vscode-field-lights",
     "displayName": "Field Lights Theme",
     "description": "A dark Visual Studio Theme inspired by the great Ayu theme but adding some personal taste customizations",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "sveggiani",
     "engines": {
         "vscode": "^1.18.0"
