@@ -1,8 +1,8 @@
 {
     "name": "vscode-field-lights",
     "displayName": "Field Lights Theme",
-    "description": "A dark Visual Studio Theme inspired by the great Ayu theme but adding some personal taste customizations",
-    "version": "0.0.2",
+    "description": "A dark Visual Studio Theme inspired by the great Ayu (Mirage) theme but adding some personal taste customizations",
+    "version": "0.0.3",
     "publisher": "sveggiani",
     "engines": {
         "vscode": "^1.18.0"
@@ -12,6 +12,10 @@
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "clean"
     ],
     "contributes": {
         "themes": [
@@ -23,7 +27,7 @@
         ]
     },
     "license": "SEE LICENSE IN LICENSE.txt",
-    "homepage": "https://github.com/Microsoft/vscode-wordcount/blob/master/README.md",
+    "homepage": "https://github.com/sveggiani/vscode-field-lights/blob/master/README.md",
     "bugs": {
         "url": "https://github.com/sveggiani/vscode-field-lights/issues",
         "email": "sveggiani@gmail.com"
