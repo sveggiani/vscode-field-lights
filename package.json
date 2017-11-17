@@ -1,0 +1,22 @@
+{
+    "name": "vscode-ayu-next",
+    "displayName": "vscode-ayu-next",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "sveggiani",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ayu Next",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ayu Next-color-theme.json"
+            }
+        ]
+    }
+}
