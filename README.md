@@ -1,4 +1,4 @@
-# README
+# Field Lights
 
 ### Screenshot
 
@@ -14,6 +14,7 @@ The most important differences regarding Ayu Mirage theme are:
 - Most divisions removed
 - Indent guides are a little bit darker
 - Cleaner sidebar
+- Some other minor customizations
 
 
 ### Usage recommendations

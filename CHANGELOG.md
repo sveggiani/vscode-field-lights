@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 - *Nothing at this moment*
 
+## [0.0.4] - 2017-11-28
+### Changed
+- Token customizations for Markdown inline code
+
 ## [0.0.3] - 2017-11-17
 ### Added
 - Details added to README.md
