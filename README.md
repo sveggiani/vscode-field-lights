@@ -17,6 +17,6 @@ The most important differences regarding Ayu Mirage theme are:
 - Some other minor customizations
 
 
-### Usage recommendations
+### Credits
 
-For best results use along with the Ayu *file icon theme*. In the future I've plans to include a custom icon theme with some customizations.
+- Folders icon by Hector M from the Noun Project
