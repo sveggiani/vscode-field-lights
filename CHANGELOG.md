@@ -6,7 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 - Alternative file icons theme WIP
-- Theme icon and details for Marketplace
+
+## [0.0.6] - 2017-12-05
+### Added
+- Marketplace theme icon and gallery banner details
 
 ## [0.0.5] - 2017-12-05
 ### Added
