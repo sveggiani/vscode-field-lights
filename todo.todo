@@ -1,5 +1,9 @@
 Implement:
-    ☐ Icons theme
-    ☐ Add icon and banner for the Marketplace
+    ☐ Customize versioning decorations (https://github.com/Microsoft/vscode/issues/178#issuecomment-335511695)
     ☐ Update syntax definitions (look at Oceanic Plus theme features)
-    ☐ Complete metadata and publish theme
+    ☐ Custom icons theme
+
+
+Archive:
+  ✔ Add icon and banner for the Marketplace @done(2018-02-24 17:13)
+  ✔ Complete metadata and publish theme @done(2018-02-24 17:13)

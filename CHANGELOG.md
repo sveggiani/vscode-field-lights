@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 - Alternative file icons theme WIP
 
+## [0.0.8] - 2018-02-24
+### Added
+- Module support
+- JSdoc instance support
+- Overview ruler error and warning colors added
+### Changed
+- Methods and functions scopes enhanced
+
 ## [0.0.7] - 2017-12-05
 ### Changed
 - Theme icon now has a transparent background to be nicely displayed in marketplace list

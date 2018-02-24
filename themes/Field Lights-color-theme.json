@@ -46,6 +46,8 @@
 		"editorLink.activeForeground": "#ffcc66",
 		"editorMarkerNavigation.background": "#272d38",
 		"editorOverviewRuler.border": "#343d4a",
+		"editorOverviewRuler.errorForeground": "#ff3333",
+		"editorOverviewRuler.warningForeground": "#ffcc66",
 		"editorRuler.foreground": "#343d4a",
 		"editorSuggestWidget.background": "#272d38",
 		"editorSuggestWidget.border": "#343d4a",
@@ -207,7 +209,7 @@
 		},
 		{
 			"name": "Function, Special Method, Block Level",
-			"scope": "entity.name.function, keyword.other.special-method, meta.block-level",
+			"scope": "entity.name.function, keyword.other.special-method, variable.function, meta.block-level, support.function",
 			"settings": {
 				"foreground": "#FFD580"
 			}
@@ -235,15 +237,15 @@
 			}
 		},
 		{
-			"name": "Class, Support",
-			"scope": "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+			"name": "Class, Instance, Support",
+			"scope": "entity.name.class, entity.name.type.class, entity.name.instance, entity.name.type.instance, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
 			"settings": {
 				"foreground": "#5CCFE6"
 			}
 		},
 		{
-			"name": "Sub-methods",
-			"scope": "entity.name.module.js, variable.import.parameter.js, variable.other.class.js",
+			"name": "Sub-methods, Module",
+			"scope": "entity.name.module, entity.name.type.module, variable.import.parameter.js, variable.other.class.js",
 			"settings": {
 				"foreground": "#5CCFE6"
 			}
