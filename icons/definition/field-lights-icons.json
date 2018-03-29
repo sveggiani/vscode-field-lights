@@ -407,6 +407,7 @@
     "ocamlmakefile": "_f_ocaml",
     "merlin": "_f_ocaml",
     "perl": "_f_perl",
+    "pdf": "_f_pdf",
     "psd": "_f_psd",
     "php": "_f_php",
     "php1": "_f_php",
