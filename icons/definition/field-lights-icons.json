@@ -30,6 +30,9 @@
     "_f_applescript": {
       "iconPath": "../file_type_applescript@2x.png"
     },
+    "_f_babel": {
+      "iconPath": "../file_type_babel@2x.png"
+    },
     "_f_binary": {
       "iconPath": "../file_type_binary@2x.png"
     },
@@ -42,8 +45,8 @@
     "_f_bower": {
       "iconPath": "../file_type_bower@2x.png"
     },
-    "_f_c++": {
-      "iconPath": "../file_type_c++@2x.png"
+    "_f_cpp": {
+      "iconPath": "../file_type_cpp@2x.png"
     },
     "_f_c": {
       "iconPath": "../file_type_c@2x.png"
@@ -126,6 +129,9 @@
     "_f_jsp": {
       "iconPath": "../file_type_jsp@2x.png"
     },
+    "_f_jsx": {
+      "iconPath": "../file_type_jsx@2x.png"
+    },
     "_f_julia": {
       "iconPath": "../file_type_julia@2x.png"
     },
@@ -158,6 +164,9 @@
     },
     "_f_mustache": {
       "iconPath": "../file_type_mustache@2x.png"
+    },
+    "_f_json": {
+      "iconPath": "../file_type_json@2x.png"
     },
     "_f_node": {
       "iconPath": "../file_type_node@2x.png"
@@ -272,6 +281,12 @@
     },
     "_f_zip": {
       "iconPath": "../file_type_archive@2x.png"
+    },
+    "_f_eslint": {
+      "iconPath": "../file_type_eslint@2x.png"
+    },
+    "_f_yarn": {
+      "iconPath": "../file_type_yarn@2x.png"
     }
   },
   "file": "_file",
@@ -307,10 +322,10 @@
     "cmi": "_f_binary",
     "bak": "_f_bookmark",
     "bowerrc": "_f_bower",
-    "cpp": "_f_c++",
-    "hpp": "_f_c++",
-    "cc": "_f_c++",
-    "cxx": "_f_c++",
+    "cpp": "_f_cpp",
+    "hpp": "_f_cpp",
+    "cc": "_f_cpp",
+    "cxx": "_f_cpp",
     "c": "_f_c",
     "cfm": "_f_cfm",
     "cfc": "_f_cfc",
@@ -363,9 +378,9 @@
     "png": "_f_image",
     "bmp": "_f_image",
     "ico": "_f_image",
-    "jade": "_f_jade",
+    "jade": "_f_pug",
     "pug": "_f_pug",
-    "jade-lintrc": "_f_jade",
+    "jade-lintrc": "_f_pug",
     "pug-lintrc": "_f_pug",
     "java": "_f_java",
     "julia": "_f_julia",
@@ -396,7 +411,7 @@
     "xvc": "_f_matlab",
     "mustache": "_f_mustache",
     "mst": "_f_mustache",
-    "json": "_f_node",
+    "json": "_f_json",
     "webmanifest": "_f_node",
     "nvmrc": "_f_node",
     "npmignore": "_f_npm",
@@ -407,7 +422,6 @@
     "ocamlmakefile": "_f_ocaml",
     "merlin": "_f_ocaml",
     "perl": "_f_perl",
-    "pdf": "_f_pdf",
     "psd": "_f_psd",
     "php": "_f_php",
     "php1": "_f_php",
@@ -426,7 +440,7 @@
     "py": "_f_python",
     "pyw": "_f_python",
     "r": "_f_R",
-    "jsx": "_f_react",
+    "jsx": "_f_jsx",
     "rt": "_f_react",
     "tsx": "_f_react",
     "rb": "_f_ruby",
@@ -467,6 +481,7 @@
     "qtpl": "_f_source"
   },
   "fileNames": {
+    ".babelrc": "_f_babel",
     "bower.json": "_f_bower",
     "gemfile": "_f_settings",
     "gemfile.lock": "_f_bundler",
@@ -474,10 +489,11 @@
     "dockerfile": "_f_docker",
     "dockerignore": "_f_docker",
     "docker-compose.yml": "_f_docker",
-    ".eslintrc.js": "_f_settings",
-    ".eslintrc.json": "_f_settings",
-    ".eslintrc.yaml": "_f_settings",
-    ".eslintrc.yml": "_f_settings",
+    ".eslintrc": "_f_eslint",
+    ".eslintrc.js": "_f_eslint",
+    ".eslintrc.json": "_f_eslint",
+    ".eslintrc.yaml": "_f_eslint",
+    ".eslintrc.yml": "_f_eslint",
     "favicon.ico": "_f_favicon",
     "gruntfile.js": "_f_gruntfile",
     "gulpfile.js": "_f_gulpfile",
@@ -485,17 +501,18 @@
     "checkstyle.json": "_f_haxe",
     "ionic.project": "_f_settings",
     "ionic.config.json": "_f_settings",
-    ".jade-lint.json": "_f_jade",
-    ".pug-lintrc.js": "_f_jade",
-    ".pug-lintrc.json": "_f_jade",
+    ".jade-lint.json": "_f_pug",
+    ".pug-lintrc.js": "_f_pug",
+    ".pug-lintrc.json": "_f_pug",
     "license": "_f_license",
-    "licence": "_f_license",
     "license.md": "_f_license",
-    "licence.md": "_f_license",
     "package.json": "_f_npm",
     ".travis.yml": "_f_settings",
-    "vagrantfile": "_f_settings"
+    ".nvmrc": "_f_settings",
+    "vagrantfile": "_f_settings",
+    "yarn.lock": "_f_yarn",
+    "Procfile": "_f_procfile"
   },
-  "hidesExplorerArrows":true ,
+  "hidesExplorerArrows": true,
   "languageIds": {}
 }

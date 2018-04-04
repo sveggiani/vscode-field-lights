@@ -6,6 +6,22 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 - Alternative file icons theme WIP
+- Color reduction / unification
+
+## [0.0.9] - 2018-04-03
+### Added
+- Notifications toasts and center colors added
+- Terminal customization
+- Some dark dividers to sidebar and panel
+- New monochromatic folder icons theme
+### Changed
+- Badges color tweaks
+- Button color tweaks
+- Dropdows color tweaks
+- Panels tweaks
+- New folder icons
+- PDF icon added (contribution by @skbolton)
+- Update icons from Ayu theme
 
 ## [0.0.8] - 2018-02-24
 ### Added

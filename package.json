@@ -2,7 +2,7 @@
     "name": "vscode-field-lights",
     "displayName": "Field Lights Theme",
     "description": "A dark Visual Studio Theme inspired by the great Ayu (Mirage) theme but adding some personal taste customizations",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "publisher": "sveggiani",
     "engines": {
         "vscode": "^1.18.0"
@@ -37,6 +37,11 @@
               "id": "field-lights",
               "label": "Field Lights",
               "path": "./icons/definition/field-lights-icons.json"
+            },
+            {
+              "id": "field-lights-monochrome",
+              "label": "Field Lights Monochromatic folders",
+              "path": "./icons/definition/field-lights-icons-monochrome.json"
             }
         ]
     },
