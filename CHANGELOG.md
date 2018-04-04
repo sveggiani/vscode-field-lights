@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Alternative file icons theme WIP
 - Color reduction / unification
 
+## [0.0.10] - 2018-04-04
+### Changed
+- Repack to update Readme.md
+
 ## [0.0.9] - 2018-04-03
 ### Added
 - Notifications toasts and center colors added
