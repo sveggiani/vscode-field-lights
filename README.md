@@ -1,8 +1,12 @@
 # Field Lights
 
-### Screenshot
+### Screenshots
 
+#### Main editor + Explorer, standard icon theme
 ![Field Lights Theme screenshot](assets/screenshot.png)
+
+#### Monochromatic folders icon theme and integrated terminal
+![Field Lights Theme screenshot](assets/screenshot_2.png)
 
 ### Description
 
@@ -19,4 +23,4 @@ The most important differences regarding Ayu Mirage theme are:
 
 ### Credits
 
-- Folders icon by Hector M from the Noun Project
+- Folders icon by Landan Lloyd from the Noun Project
