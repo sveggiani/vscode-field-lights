@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
     <title>folder_open</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icon-backgrounds" transform="translate(-42.000000, -129.000000)"></g>
-        <g id="Group" transform="translate(3.000000, 5.000000)" fill="#FFAE57">
-            <g id="Shape">
-                <path d="M31.688485,7.89285714 L28.0393622,26 L0.631578947,26 L4.42105263,7.89285714 L31.688485,7.89285714 L31.688485,7.89285714 Z M0,0 L6.70056851,0 L9.22688429,2.32142857 L27.7894737,2.32142857 L27.7894737,6.5 L3.36842105,6.5 L0.00145153684,22.9139763 L0,0 L0,0 Z"></path>
-            </g>
+    <g id="Icons:-folders-and-files" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="folder-open" fill="#FFAE57">
+            <path d="M34.688485,12.8928571 L31.0393622,31 L3.63157895,31 L7.42105263,12.8928571 L34.688485,12.8928571 L34.688485,12.8928571 Z M3,5 L9.70056851,5 L12.2268843,7.32142857 L30.7894737,7.32142857 L30.7894737,11.5 L6.36842105,11.5 L3.00145154,27.9139763 L3,5 L3,5 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

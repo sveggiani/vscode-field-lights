@@ -2,10 +2,10 @@
     "name": "vscode-field-lights",
     "displayName": "Field Lights Theme",
     "description": "A dark Visual Studio Theme inspired by the great Ayu (Mirage) theme but adding some personal taste customizations",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "publisher": "sveggiani",
     "engines": {
-        "vscode": "^1.18.0"
+        "vscode": "^1.20.0"
     },
     "author": {
         "name": "Sebastián Veggiani (sveggiani[at]gmail.com)"
@@ -34,14 +34,24 @@
         ],
         "iconThemes": [
             {
-              "id": "field-lights",
-              "label": "Field Lights",
-              "path": "./icons/definition/field-lights-icons.json"
+                "id": "field-lights",
+                "label": "Field Lights",
+                "path": "./icons/definition/field-lights-icons.json"
             },
             {
-              "id": "field-lights-monochrome",
-              "label": "Field Lights Monochromatic folders",
-              "path": "./icons/definition/field-lights-icons-monochrome.json"
+                "id": "field-lights-monochrome",
+                "label": "Field Lights Monochromatic",
+                "path": "./icons/definition/field-lights-icons-mono.json"
+            },
+            {
+                "id": "field-lights-minimalistic",
+                "label": "Field Lights (Minimalistic)",
+                "path": "./icons/definition/field-lights-icons-mini.json"
+            },
+            {
+                "id": "field-lights-monochrome-minimalistic",
+                "label": "Field Lights Monochromatic (Minimalistic)",
+                "path": "./icons/definition/field-lights-icons-mono-mini.json"
             }
         ]
     },
@@ -54,5 +64,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/sveggiani/vscode-field-lights"
+    },
+    "dependencies": {
+        "npm": "^5.8.0"
     }
 }

@@ -5,8 +5,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Alternative file icons theme WIP
 - Color reduction / unification
+
+## [0.0.11] - 2018-05-26
+### Added
+- Minimalistic file icon themes
 
 ## [0.0.10] - 2018-04-04
 ### Changed

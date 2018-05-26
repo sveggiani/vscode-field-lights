@@ -8,6 +8,10 @@
 #### Monochromatic folders icon theme and integrated terminal
 ![Field Lights Theme screenshot](assets/screenshot_2.png)
 
+#### Monochromatic / Minimalistic file icons
+![Field Lights Theme screenshot](assets/screenshot_3.png)
+
+
 ### Description
 
 *Field Lights* is a dark Visual Studio Theme inspired by the great Ayu (Mirage) theme but adding some personal taste customizations.
