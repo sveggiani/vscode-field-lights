@@ -63,6 +63,9 @@
     "_f_coffeescript": {
       "iconPath": "../file_type_coffeescript@2x.png"
     },
+    "_f_cs": {
+      "iconPath": "../file_type_csharp@2x.png"
+    },
     "_f_css": {
       "iconPath": "../file_type_css@2x.png"
     },
