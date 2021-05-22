@@ -249,6 +249,9 @@
     "_f_stylus": {
       "iconPath": "../file_type_stylus@2x.png"
     },
+    "_f_svelte": {
+      "iconPath": "../file_type_svelte@2x.png"
+    },
     "_f_swift": {
       "iconPath": "../file_type_swift@2x.png"
     },
@@ -461,6 +464,7 @@
     "sql": "_f_sql",
     "sqlite": "_f_sql",
     "styl": "_f_stylus",
+    "svelte": "_f_svelte",
     "svg": "_f_image",
     "swift": "_f_swift",
     "tcl": "_f_tcl",
